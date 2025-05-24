@@ -1,0 +1,9 @@
+streamlit
+youtube-comment-downloader
+transformers
+torch
+nltk
+matplotlib
+wordcloud
+vadersentiment
+huggingface_hub[hf_xet]
